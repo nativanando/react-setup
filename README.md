@@ -8,7 +8,7 @@
 
 ## Overview
 
-It provides an initial structure for setting up a development environment for React using the airbnb style guide, eslint and prettier.
+It provides an initial structure for setting up a development/production environment for React using the airbnb style guide, eslint and prettier.
 
 ## Environment
 
