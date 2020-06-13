@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://victorvhpg.github.io/minicurso-react.js/slides/img/logo.png" height="150" width="175" alt="Unform" />
+  <img src="https://victorvhpg.github.io/minicurso-react.js/slides/img/logo.png" height="150" width="150" alt="Unform" />
 </p>
 
 <h3 align="center">
