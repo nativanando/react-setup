@@ -1,3 +1,13 @@
+<p align="center">
+  <img src="https://victorvhpg.github.io/minicurso-react.js/slides/img/logo.png" height="150" width="175" alt="Unform" />
+</p>
+
+<h3 align="center">
+  Easy ReactJS enviorment ready to production! 🚀
+</h3>
+
+## Overview
+
 It provides an initial structure for setting up a development environment for React using the airbnb style guide, eslint, prettier and Visual Studio code.
 
 ## Environment
@@ -5,17 +15,9 @@ It provides an initial structure for setting up a development environment for Re
 ### Visual Studio Plugins
 Let's check it out the list of required Visual Studio plugins to enable the eslint and code formatting conventions.
 
-#### ESLint for Visual Studio Code
-
-You can find it here: [EsLint](https://marketplace.visualstudio.com/items?itemName=dbaeumer.vscode-eslint)
-
-#### Prettier - Code formatter
-
-You can find it here: [Prettier](https://marketplace.visualstudio.com/items?itemName=esbenp.prettier-vscode)
-
-#### EditorConfig for Visual Studio Code
-
-You can find it here: [EditorConfig](https://marketplace.visualstudio.com/items?itemName=EditorConfig.EditorConfig)
+- **[EsLint](https://marketplace.visualstudio.com/items?itemName=dbaeumer.vscode-eslint)**
+- **[Prettier](https://marketplace.visualstudio.com/items?itemName=esbenp.prettier-vscode)**
+- **[EditorConfig](https://marketplace.visualstudio.com/items?itemName=EditorConfig.EditorConfig)**
 
 #### Default Formatter
 
@@ -60,9 +62,9 @@ To ensure that this extension is used over other extensions you may have install
 
 ### Config files
 
-### `.eslintrc.json` File to set up the eslint/prettier conventions.
+`.eslintrc.json` File to set up the eslint/prettier conventions.
 
-### `.eslintrc.json` File to set up the source code path for enabling the absolute path import.
+`.eslintrc.json` File to set up the source code path for enabling the absolute path import.
 
 
 ### File structure
