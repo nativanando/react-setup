@@ -13,7 +13,7 @@ It provides an initial structure for setting up a development environment for Re
 ## Environment
 
 ### VS Code Plugins
-Let's check it out the list of required VS Code plugins to enable the eslint and code formatting conventions.
+Let's check out the list of required VS Code plugins to enable the eslint and code formatting conventions.
 
 - **[EsLint](https://marketplace.visualstudio.com/items?itemName=dbaeumer.vscode-eslint)**
 - **[Prettier](https://marketplace.visualstudio.com/items?itemName=esbenp.prettier-vscode)**
