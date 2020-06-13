@@ -3,7 +3,7 @@
 </p>
 
 <h3 align="center">
-  Easy ReactJS enviorment ready to production! 🚀
+  Easy ReactJS environment ready to production! 🚀
 </h3>
 
 ## Overview
