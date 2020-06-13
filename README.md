@@ -8,12 +8,12 @@
 
 ## Overview
 
-It provides an initial structure for setting up a development environment for React using the airbnb style guide, eslint, prettier and Visual Studio code.
+It provides an initial structure for setting up a development environment for React using the airbnb style guide, eslint and prettier.
 
 ## Environment
 
-### Visual Studio Plugins
-Let's check it out the list of required Visual Studio plugins to enable the eslint and code formatting conventions.
+### VS Code Plugins
+Let's check it out the list of required VS Code plugins to enable the eslint and code formatting conventions.
 
 - **[EsLint](https://marketplace.visualstudio.com/items?itemName=dbaeumer.vscode-eslint)**
 - **[Prettier](https://marketplace.visualstudio.com/items?itemName=esbenp.prettier-vscode)**
