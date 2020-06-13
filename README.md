@@ -64,7 +64,7 @@ To ensure that this extension is used over other extensions you may have install
 
 `.eslintrc.json` File to set up the eslint/prettier conventions.
 
-`.eslintrc.json` File to set up the source code path for enabling the absolute path import.
+`.eslintrc.json` File to set up the source code path for enabling the absolute import path.
 
 
 ### File structure
