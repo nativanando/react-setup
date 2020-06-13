@@ -19,7 +19,7 @@ Let's check out the list of required VS Code plugins to enable the eslint and co
 - **[Prettier](https://marketplace.visualstudio.com/items?itemName=esbenp.prettier-vscode)**
 - **[EditorConfig](https://marketplace.visualstudio.com/items?itemName=EditorConfig.EditorConfig)**
 
-#### Default Formatter
+### Default Formatter
 
 To ensure that this extension is used over other extensions you may have installed, be sure to set it as the default formatter in your VS Code settings.
 
