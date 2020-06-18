@@ -6,6 +6,12 @@
   Easy ReactJS environment ready for production! 🚀
 </h3>
 
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+[![](https://img.shields.io/github/issues/uiwjs/react-shields.svg)](https://github.com/nativanando/react-setup/issues)
+[![](https://img.shields.io/github/forks/uiwjs/react-shields.svg)](https://github.com/nativanando/react-setup/network)
+[![](https://img.shields.io/github/stars/uiwjs/react-shields.svg)](https://github.com/nativanando/react-setup/stargazers)
+[![](https://img.shields.io/github/v/release/uiwjs/react-shields.svg)](https://github.com/nativanando/react-setup/releases)
+
 ## Overview
 
 It provides an initial structure for setting up a development/production environment for React using the airbnb style guide, eslint and prettier.
